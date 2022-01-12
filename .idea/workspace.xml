@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b54c0f-72aa-43c9-a782-c5d2f8cf2c99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insert.php" beforeDir="false" afterPath="$PROJECT_DIR$/insert.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
-    </list>
+    <list default="true" id="60b54c0f-72aa-43c9-a782-c5d2f8cf2c99" name="Changes" comment="php" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +51,7 @@
       <workItem from="1641560188553" duration="28000" />
       <workItem from="1641563677225" duration="607000" />
       <workItem from="1641797997527" duration="6989000" />
-      <workItem from="1641979034915" duration="1397000" />
+      <workItem from="1641979034915" duration="1717000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1641802837162</created>
@@ -72,15 +67,42 @@
       <option name="project" value="LOCAL" />
       <updated>1641804055685</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="php">
+      <created>1641980482908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641980482908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="php">
+      <created>1641980694883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641980694883</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add image" />
+    <MESSAGE value="php project" />
+    <MESSAGE value="php" />
+    <option name="LAST_COMMIT_MESSAGE" value="php" />
   </component>
 </project>
